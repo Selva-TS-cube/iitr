@@ -1,9 +1,7 @@
-# Virtual environment
 venv/
 .venv/
 env/
 
-# Python
 __pycache__/
 *.py[cod]
 *.so
@@ -12,22 +10,18 @@ __pycache__/
 dist/
 build/
 
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS
 .DS_Store
 Thumbs.db
 
-# Project
 *.csv
 !data/*.csv
 *.log
 
-# Reports
 PROJECT_REPORT.md
 PRESENTATION_SCRIPT.md
 flow.md
