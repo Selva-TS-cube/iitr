@@ -84,8 +84,7 @@ Think of it like this: movies are organized into 25 "neighborhoods" based on the
 ├── 📁 recommender/
 │   └── movie-recomendation.ipynb  ← The main notebook
 ├── requirements.txt
-├── README.md
-└── PROJECT_REPORT.md
+└── README.md
 ```
 
 ---
