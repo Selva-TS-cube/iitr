@@ -26,3 +26,4 @@ Thumbs.db
 *.csv
 !data/*.csv
 *.log
+PROJECT_REPORT.md
